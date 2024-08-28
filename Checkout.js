@@ -23,7 +23,7 @@ function Checkout() {
                    
                           rating={5}
                       
-              />))}
+     />))}
               {/*Basketitems*/}
               {/*Basketitems*/}
               {/*Basketitems*/}
