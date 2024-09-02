@@ -22,7 +22,6 @@ function Checkout() {
                           price={199.99}
                    
                           rating={5}
-                      
      />))}
               {/*Basketitems*/}
               {/*Basketitems*/}
