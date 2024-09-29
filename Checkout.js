@@ -33,7 +33,6 @@ function Checkout() {
              <h1> this is left checkout</h1>
 
 
-                      
           </div>
     </div>
   )
