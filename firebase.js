@@ -3,7 +3,7 @@ import "firebase/compat/auth"
 import "firebase/compat/database"
 
 const firebaseConfig = {
-    apiKey: "",
+    apiKey: " #fi rebase-api-key-goes-here ",
     authDomain: "challenge-a7404.firebaseapp.com",
     projectId: "challenge-a7404",
     storageBucket: "challenge-a7404.appspot.com",
