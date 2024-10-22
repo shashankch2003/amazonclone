@@ -13,7 +13,6 @@
 }
 .product__rating{
     display: flex;
-
 }
 .product > img{
     max-width: 200px;
