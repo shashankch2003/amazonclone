@@ -16,6 +16,7 @@ function Subtotal() {
   //   return price === 0 ? 0 : "$" + price.toFixed(2);
   // };
 
+  
   return (
     <div className="subtotal">
       <CurrencyFormat
