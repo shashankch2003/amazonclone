@@ -39,7 +39,7 @@ function Login() {
       <div className='login'>
            <Link to='/'>
           <img
-        className='login__logo'
+    className='login__logo'
               src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiTcDMpiVe0pSutnR0YWOXy3rIIBVpJzuHRA&usqp=CAU" alt="" />
              </Link>
           <div className='login__container'>
