@@ -20,7 +20,6 @@ function Checkout() {
                           title='this is atest , loremipsum'
                           image="Chandelier Ceiling Lamp 300mm Glass Crystal Big Size Jhumar Lamp fo Living Room/Hall"
                           price={199.99}
-                   
                           rating={5}
      />))}
               {/*Basketitems*/}
