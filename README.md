@@ -5,7 +5,7 @@ This project is an **Amazon Clone** built using **React** for the frontend, **Fi
 
 Tech Stack
 -Frontend: React
-- **Backend Services**: Firebase (Authentication, Firestore Database)
+-Backend Services**: Firebase (Authentication, Firestore Database)
 - **Payment Gateway**: Stripe
 - **Deployment**: Firebase Hosting
 
