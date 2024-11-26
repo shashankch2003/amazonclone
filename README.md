@@ -4,7 +4,7 @@ Overview
 This project is an **Amazon Clone** built using **React** for the frontend, **Firebase** for backend services such as authentication and database, and **Stripe** for payment integration. The project mimics key features of an e-commerce platform like Amazon, including user registration, product browsing, shopping cart functionality, and secure checkout with payment processing.
 
 Tech Stack
-- **Frontend**: React
+-Frontend**: React
 - **Backend Services**: Firebase (Authentication, Firestore Database)
 - **Payment Gateway**: Stripe
 - **Deployment**: Firebase Hosting
