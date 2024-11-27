@@ -34,4 +34,5 @@ function Checkout() {
     </div>
   )
 }
+
 export default Checkout
