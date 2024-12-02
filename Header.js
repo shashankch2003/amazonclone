@@ -12,7 +12,6 @@ function Header() {
           <img className='header_logo'
             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiTcDMpiVe0pSutnR0YWOXy3rIIBVpJzuHRA&usqp=CAU" alt=""  />
           </Link>
-        
         <div className='header_search'>
             <input
                 className='header_searchInput' type='text'/>
