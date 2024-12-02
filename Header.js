@@ -9,10 +9,8 @@ function Header() {
   return (
       <div className='header'>
           <Link to="/">
-          <img 
-            className='header_logo'
+          <img className='header_logo'
             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiTcDMpiVe0pSutnR0YWOXy3rIIBVpJzuHRA&usqp=CAU" alt=""  />
-
           </Link>
         
         <div className='header_search'>
