@@ -1,4 +1,4 @@
-import './App.css';
+eimport './App.css';
 import Checkout from './Checkout';
 import Header from './Header';
 import Home from './Home';
@@ -25,6 +25,7 @@ function App() {
     </Router>
   );
   }
+
 
 export default App;
 
