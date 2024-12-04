@@ -17,7 +17,6 @@ function Login() {
                 history.push('/')
             })
         .catch(error => alert(error.message))
-
     }
 
     const register = e =>{
