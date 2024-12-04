@@ -35,5 +35,4 @@ const CheckoutProduct = ({ id, image, title, price, rating }) => {
     </div>
   );
 };
-
 export default CheckoutProduct;
