@@ -22,11 +22,8 @@ function Header() {
              
               <div className='header_option'>
 
-                   <span className='header_optionLineOne'>
-                    Hello Guest</span>
-                    <span className='header_optionLineOne'>
-                    Sign in</span>
-
+                   <span className='header_optionLineOne'>Hello Guest</span>
+                    <span className='header_optionLineOne'>Sign in</span>
                </div>
               <div className='header_option'>
                    <span className='header_optionLineOne'>
