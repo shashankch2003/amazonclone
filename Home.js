@@ -54,7 +54,7 @@ function Home() {
                         image='https://m.media-amazon.com/images/I/A1DJoJwO2cL._AC._SR360,460.jpg'
                     />
 
-                
+    
                 </div>
             </div>
         </div>
