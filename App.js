@@ -1,4 +1,4 @@
- import './App.css';
+import './App.css';
 import Checkout from './Checkout';
 import Header from './Header';
 import Home from './Home';
