@@ -2,7 +2,7 @@
 
 Amazon Clone - Full Stack Project
 
-
+before you would like to add features and improvee star ⭐the repo it really help me to push more innovative projects and i really appricate for your time 
 Overview
 This project is an **Amazon Clone** built using **React** for the frontend, **Firebase** for backend services such as authentication and database, and **Stripe** for payment integration. The project mimics key features of an e-commerce platform like Amazon, including user registration, product browsing, shopping cart functionality, and secure checkout with payment processing.
 
