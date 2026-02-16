@@ -36,6 +36,9 @@ Tech Stack
    - The application is fully responsive, providing a seamless experience on both desktop and mobile devices.
 
 ---
+improved features :
+-faster payment intergation
+-
 
 ### Project Setup
 
@@ -165,7 +168,7 @@ The Amazon Clone is designed to simulate a modern shopping platform where users 
 - **Frontend**: React (Hooks, Context API, Styling)  
 - **Backend Services**: Firebase Authentication & Firestore Database  
 - **Payment Gateway**: Stripe (Test/Live Modes)  
-- **Hosting & Deployment**: Firebase Hosting  
+- **Hosting & Deployment**: Fir ebase Hosting  
 
 ***
 
